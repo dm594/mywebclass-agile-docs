@@ -31,3 +31,6 @@ Description: [A brief description of the initiative]
 
 ## Team
 [Identify the team members and their roles in the initiative]
+
+## Epics
+1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
