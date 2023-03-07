@@ -3,34 +3,34 @@
 Description: [A brief description of the initiative]
 
 ## Goals
-[List the goals or objectives of the initiative]
+* [List the goals or objectives of the initiative]
 
 ## Scope
-[Define the scope of the initiative]
+* [Define the scope of the initiative]
 
 ## Outcomes
-[Describe the expected outcomes of the initiative]
+* [Describe the expected outcomes of the initiative]
 
 ## Deliverables
-[List the expected deliverables of the initiative]
+* [List the expected deliverables of the initiative]
 
 ## Milestones
-[List the major milestones and their timelines]
+* [List the major milestones and their timelines]
 
 ## Constraints
-[Identify any constraints or limitations that may impact the initiative]
+* [Identify any constraints or limitations that may impact the initiative]
 
 ## Assumptions
-[List any assumptions made about the initiative]
+* [List any assumptions made about the initiative]
 
 ## Risks
-[List the potential risks and mitigation strategies]
+* [List the potential risks and mitigation strategies]
 
 ## Dependencies
-[List any dependencies that may impact the initiative]
+* [List any dependencies that may impact the initiative]
 
 ## Team
-[Identify the team members and their roles in the initiative]
+* [Identify the team members and their roles in the initiative]
 
 ## Epics
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+* [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
