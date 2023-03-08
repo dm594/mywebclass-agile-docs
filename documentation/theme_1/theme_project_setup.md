@@ -17,14 +17,14 @@ This theme aims to reduce development time, increase reliability, and ensure tha
 * As a developer, I want to deploy the website code to the production server so that users can access the website.
 
 #### Tasks:
-* Install a web server, such as Apache or Nginx, on the local machine
-* Install and configure a database server, such as MySQL or PostgreSQL
-* Install and configure a development environment, such as Docker or VirtualBox
-* Set up a local Git repository for the website code
-* Clone the Git repository to the local development environment
-* Build and deploy the website code to the local development environment
-* Install and configure a web server on the production server
-* Install and configure a database server on the production server
-* Set up a Git repository for the website code on the production server
-* Configure the production server to automatically pull changes from the Git repository
-* Deploy the website code to the production server.
+1. Install a web server, such as Apache or Nginx, on the local machine
+2. Install and configure a database server, such as MySQL or PostgreSQL
+3. Install and configure a development environment, such as Docker or VirtualBox
+4. Set up a local Git repository for the website code
+5. Clone the Git repository to the local development environment
+6. Build and deploy the website code to the local development environment
+7. Install and configure a web server on the production server
+8. Install and configure a database server on the production server
+9. Set up a Git repository for the website code on the production server
+10. Configure the production server to automatically pull changes from the Git repository
+11. Deploy the website code to the production server
